@@ -1,0 +1,32 @@
+This run began on Fri Jun 12 17:09:16 AKDT 2009
+Using the command:
+
+date 1>> FFT1D-6-12-2009.txt && ./FFT1D_sample c2c 1000 11 12000 1  2>> FFT1D-6-12-2009.txt
+
+Fri Jun 12 17:09:16 AKDT 2009
+sh: ./FFT1D_sample: No such file or directory
+Fri Jun 12 17:09:17 AKDT 2009
+sh: ./FFT1D_sample: No such file or directory
+Fri Jun 12 17:09:18 AKDT 2009
+sh: ./FFT1D_sample: No such file or directory
+Fri Jun 12 17:09:19 AKDT 2009
+sh: ./FFT1D_sample: No such file or directory
+Fri Jun 12 17:09:20 AKDT 2009
+sh: ./FFT1D_sample: No such file or directory
+Fri Jun 12 17:09:21 AKDT 2009
+sh: ./FFT1D_sample: No such file or directory
+Fri Jun 12 17:09:22 AKDT 2009
+sh: ./FFT1D_sample: No such file or directory
+Fri Jun 12 17:09:23 AKDT 2009
+sh: ./FFT1D_sample: No such file or directory
+This run began on Fri Jun 12 17:25:00 AKDT 2009
+Using the command:
+
+date 1>> FFT1D-6-12-2009.txt && ./FFT1D_sample c2c 1 22 11 1000  2>> FFT1D-6-12-2009.txt
+
+Fri Jun 12 17:25:00 AKDT 2009
+sh: ./FFT1D_sample: No such file or directory
+Fri Jun 12 17:25:01 AKDT 2009
+sh: ./FFT1D_sample: No such file or directory
+Fri Jun 12 17:25:02 AKDT 2009
+sh: ./FFT1D_sample: No such file or directory

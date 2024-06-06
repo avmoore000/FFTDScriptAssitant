@@ -1,0 +1,11 @@
+This run began on Fri Jun 12 17:25:29 AKDT 2009
+Using the command:
+
+date 1>> FFT2D-test.txt && ./FFT2D_sample  1 1 1 1 1 2 2 3  2>> FFT2D-test.txt
+
+Fri Jun 12 17:25:29 AKDT 2009
+sh: ./FFT2D_sample: No such file or directory
+Fri Jun 12 17:25:30 AKDT 2009
+sh: ./FFT2D_sample: No such file or directory
+Fri Jun 12 17:25:31 AKDT 2009
+sh: ./FFT2D_sample: No such file or directory
